@@ -1,0 +1,76 @@
+"Mensaje","Repetitividad","Tono_Emotividad","Accionabilidad","Inmersion"
+"Órbita baja estable a 185 km. Revisa el enlace con Houston antes de la ventana TLI.",8,6,8,9
+"Control de Misión en espera. Abre el panel general y sincroniza la telemetría.",7,5,9,8
+"Ascenso completado. Verifica que los sistemas de partida reportan estado nominal.",7,5,8,8
+"Houston: 'Moonies, confirmen recepción de datos en órbita de estacionamiento'.",9,7,6,10
+"Diagnóstico pendiente: valida la estabilidad de los indicadores principales de la nave.",7,5,8,7
+"La ventana hacia la Luna se abre en breve; completa tu chequeo general.",7,6,8,8
+"Telemetría lista para validación. Confirma los parámetros en la consola central.",6,4,9,7
+"Nivel de preparación al 95%. Autoriza el chequeo de sistemas LEO para avanzar.",7,5,8,8
+"¡Alerta solar! Oleada de protones en camino. Refugio en el módulo central de inmediato.",9,10,9,9
+"Radiación letal detectada. Usa los depósitos de agua y comida como blindaje.",9,9,9,9
+"Los trajes EVA no frenan protones. Mueve a la tripulación tras los escudos de agua.",10,10,9,10
+"Apaga la electrónica no esencial o los microchips sufrirán daños irreversibles.",8,8,10,9
+"Contadores Geiger subiendo. Reorganiza los suministros para proteger la cabina.",8,8,9,9
+"Tormenta inminente: confirma la configuración de refugio en el panel principal.",7,8,9,8
+"Protege los circuitos críticos: desconecta instrumentos secundarios durante el pico.",7,7,9,8
+"Pico de radiación activo. Mantened la posición tras el blindaje hídrico.",8,9,7,9
+"¡Atención! Caída de presión en el túnel de transferencia. Detén el desacoplamiento.",8,10,10,9
+"Bloqueo de pestillos incompleto en el anillo. Revisa los indicadores de acoplamiento.",8,7,9,9
+"No actives los pernos de separación sin asegurar antes la estanqueidad del túnel.",9,8,9,10
+"Si el anillo falla ahora, será imposible reacoplar tras el despegue lunar.",10,10,5,10
+"Estabiliza la presión del túnel y verifica el asentamiento mecánico en la consola.",7,6,9,9
+"Indicador de pestillos en ámbar. Ejecuta el protocolo de seguridad de acoplamiento.",7,6,9,8
+"Desacoplamiento pausado por seguridad. Inspecciona el sello de la compuerta.",7,7,9,8
+"Confirma los indicadores de presión en verde para poder liberar el módulo.",6,5,9,7
+"¡Contacto lunar! Pero el calor solar dispara la presión de propelente. Revisa depósitos.",9,10,9,10
+"Houston exige decisión STAY / NO-STAY en 60 segundos. Evalúa las presiones ya.",10,10,9,10
+"Riesgo de ebullición en la etapa de descenso. Abre las válvulas de venteo térmico.",9,9,10,10
+"Ejecuta el venteo de combustible residual y verifica la aviónica para poder salir.",8,7,9,9
+"¿Nos quedamos o despegamos en emergencia? Estabiliza los tanques para decidir.",9,9,8,9
+"Comprobación T+1 minuto activa. Libera la presión atrapada en los conductos.",9,7,9,10
+"No despresurices la cabina aún; asegúrate de que los depósitos no vayan a estallar.",9,8,9,9
+"Válvulas de alivio cerradas con éxito. Confirma parámetros y comunica 'STAY'.",8,6,9,8
+"¡Presión de cabina inestable! Localiza el módulo con fuga en el monitor ambiental.",8,9,9,8
+"Fallo de atmósfera. Inspecciona el panel universal y aplica el sellado o ajusta el regulador.",8,8,10,8
+"¡Impacto de micrometeorito! Revisa el mapa estructural e identifica la sección perforada.",9,9,9,9
+"Brecha en el casco detectada. Selecciona el kit de parcheo adecuado y sella el acceso.",8,8,10,8
+"Alerta hídrica: contaminación en el agua potable. Aísla el tanque desde el panel de emergencia.",8,8,10,8
+"Flujo de agua tóxico. Identifica el contaminante e inicia el filtrado de tuberías.",8,8,9,8
+"Prueba de integridad pendiente: valida la muestra de agua o el sellado del casco tras reparar.",7,6,9,8
+"Houston abre ventana de decisión: elige qué tarea científica o reporte tiene prioridad ahora.",8,5,8,8
+"Combustible en burbujas: activa el asentamiento (ullage) para evitar la cavitación del motor.",10,8,9,10
+"CO2 crítico. Los filtros son incompatibles: improvisa un adaptador con bolsas y cinta (Apolo 13).",10,9,9,10
+"Alarma 1202: aísla los flujos de datos de radar no esenciales para liberar carga de la CPU.",9,9,10,10
+"Polvo electrostático obstruye la mochila PLSS: límpiala con el cepillo de nailon especial.",9,7,10,10
+"Cápsula nuclear RTG dilatada por calor: extráela suavemente con la herramienta aislante.",9,8,10,10
+"Disyuntor del motor partido: fuerza el circuito de ignición usando un bolígrafo no conductor.",10,10,10,10
+"Fallo en válvula de inyección de regreso: conmuta inmediatamente al banco redundante B.",8,9,10,9
+"Gradiente térmico extremo: inicia la rotación pasiva (Giro de Barbacoa) a 3 rev/h.",9,8,9,10
+"Alinea la mira de acoplamiento LEO y reduce la velocidad de aproximación a menos de 0,1 m/s.",8,6,10,9
+"Ejecuta el encendido TLI clavando los 10,8 km/s; aprovecha el efecto Oberth y corta motores.",9,7,10,10
+"Desvío de 400 km: calibra ángulos con el sextante óptico y ejecuta la corrección de rumbo.",9,7,10,10
+"Entramos en sombra lunar. Ejecuta de forma autónoma el frenado LOI para ser capturados.",9,8,9,10
+"Los mascons lunares degradan el perilunio: corrige la altitud orbital antes de estrellarnos.",10,10,9,10
+"¡Campo de rocas bajo el módulo! Toma control semimanual y desvíate hacia terreno llano.",9,10,10,9
+"Nave nodriza en órbita superior: usa la ventaja de la órbita baja para el encuentro orbital.",9,7,9,10
+"Reentrada a 11 km/s: clava el ángulo a -6,2° y despliega los paracaídas principales a 3 km.",9,9,10,10
+"Alarma de sobrecarga 1202: autoriza desconectar radares secundarios para salvar el guiado.",9,9,10,10
+"Superamos el límite de masa de ascenso. Autoriza descartar mochilas EVA y cámaras.",9,8,10,9
+"Radiación Van Allen crítica: ordena apagar ciencia y configura los depósitos como escudo.",9,10,9,10
+"Verifica y autoriza el plan de inserción lunar (LOI) antes de perder señal con la Tierra.",8,7,9,9
+"Superficie a 118°C: ordena ciclos alternos de ciencia para no evaporar el refrigerante.",9,8,9,10
+"Módulo vacío separado: programa su impacto contra la Luna para activar el sismómetro.",9,7,9,10
+"Ordenador de misión inestable: aísla el proceso y migra el control al sistema redundante.",8,8,9,9
+"Relé de comunicaciones caído: evalúa rutas y autoriza el cambio al canal de respaldo.",8,8,9,9
+"Iniciando LEO: evalúa el nivel basal de hidratación y fatiga de la tripulación en consola.",8,5,9,8
+"Riesgo de hipercapnia (CO2 alto): evalúa síntomas en la tripulación y asigna prioridades.",9,8,9,9
+"Exposición solar extrema en superficie: ajusta los turnos de descanso para evitar insolación.",8,7,9,8
+"Cruce de los cinturones de radiación: revisa dosímetros y registra pacientes de riesgo.",9,8,9,9
+"Manejo del RTG nuclear: establece el perímetro seguro y monitoriza exposición a plutonio.",9,9,9,10
+"Sobrecalentamiento en traje EVA: evalúa signos vitales y aplica el límite de retorno a pie.",9,9,9,10
+"Amerizaje completado: confirma posición Stable-1 y evalúa constantes antes de la evacuación.",8,7,9,10
+"Signo vital erróneo en monitor: contrasta con sensor secundario y recalibra el canal médico.",8,6,10,8
+```eof
+
+Si necesitas procesar los datos de otra forma, añadir más columnas o que exporte esto en formato JSON para conectarlo con Unity, dímelo.
